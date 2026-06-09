@@ -1,0 +1,4 @@
+"cell_type","description","meta_score","confidence_tier","n_methods","database"
+"CA1/CA2_dorsal","external encapsulating structure",3.752,"Moderate",4,"GO Cellular Component"
+"CA1/CA2_dorsal","extracellular matrix",3.752,"Moderate",4,"GO Cellular Component"
+"CA1/CA2_dorsal","collagen-containing extracellular matrix",3.605,"Moderate",4,"GO Cellular Component"

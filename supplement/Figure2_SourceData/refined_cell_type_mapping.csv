@@ -1,0 +1,350 @@
+"dataset","original_name","unified_name","cluster_id","cell_class","hippocampal_field","interneuron_subtype","spatial_location"
+"mouse10x_2020","10_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","11_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","7_Lamp5 Lhx6","Lamp5_IN",2,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","5_Lamp5 Lhx6","Lamp5_IN",2,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","6_Lamp5 Lhx6","Lamp5_IN",2,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","8_Lamp5 Lhx6","Lamp5_IN",2,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","9_Lamp5 Lhx6","Lamp5_IN",2,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","20_Pax6","20_Pax6",3,"Other",NA,NA,NA
+"mouse10x_2020","28_Ntng1 HPF","Sncg_IN",4,"Other",NA,NA,"HPF"
+"mouse10x_2020","17_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","14_Lamp5","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","15_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","16_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","62_Vip Igfbp6","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","37_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","39_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","29_Ntng1 HPF","Sncg_IN",4,"Other",NA,NA,"HPF"
+"mouse10x_2020","56_Vip HPF","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip","HPF"
+"mouse10x_2020","38_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","32_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","33_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","31_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","35_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","22_Sncg","22_Sncg",6,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","34_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","52_Vip","Vip_IN",7,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","21_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","25_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","26_Ntng1 HPF","Sncg_IN",4,"Other",NA,NA,"HPF"
+"mouse10x_2020","27_Ntng1 HPF","Sncg_IN",4,"Other",NA,NA,"HPF"
+"mouse10x_2020","30_Ntng1 HPF","30_Ntng1 HPF",8,"Other",NA,NA,"HPF"
+"mouse10x_2020","4_Meis2 HPF","4_Meis2 HPF",9,"Hippocampal_Interneuron",NA,NA,"HPF"
+"mouse10x_2020","193_L4/5 IT CTX","193_L4/5 IT CTX",10,"Cortical",NA,NA,NA
+"mouse10x_2020","189_L4/5 IT CTX","189_L4/5 IT CTX",11,"Cortical",NA,NA,NA
+"mouse10x_2020","192_L4/5 IT CTX","192_L4/5 IT CTX",12,"Cortical",NA,NA,NA
+"mouse10x_2020","60_Vip Igfbp6","Vip_IN",13,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","363_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"mouse10x_2020","99_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","164_L2/3 IT CTX","164_L2/3 IT CTX",16,"Cortical",NA,NA,NA
+"mouse10x_2020","59_Vip Igfbp6","Vip_IN",13,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","58_Vip Igfbp6","Vip_IN",13,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","61_Vip Igfbp6","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","41_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","51_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","50_Vip","Vip_IN",7,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","53_Vip","Vip_IN",7,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","54_Vip HPF","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip","HPF"
+"mouse10x_2020","44_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","55_Vip HPF","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip","HPF"
+"mouse10x_2020","49_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","98_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","63_Sst Chodl","Sst_IN",17,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","102_Sst HPF","Sst_IN",15,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","103_Sst HPF","Sst/Pvalb_IN",18,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","114_Pvalb","Pvalb/Vip_IN",19,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","122_Pvalb Vipr2","Pvalb/Vip_IN",19,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","118_Pvalb","Pvalb/Vip_IN",19,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","78_Sst HPF","Sst_IN",15,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","121_Pvalb","Pvalb/Vip_IN",19,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","91_Sst","91_Sst",20,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","123_Pvalb Vipr2","Pvalb/Vip_IN",19,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","119_Pvalb","Pvalb/Vip_IN",19,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","87_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","105_Sst HPF","Sst_IN",15,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","104_Sst HPF","Sst_IN",15,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","151_L2 IT ENTl","151_L2 IT ENTl",21,"Cortical",NA,NA,NA
+"mouse10x_2020","79_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","77_Sst HPF","Sst/Pvalb_IN",18,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse10x_2020","94_Sst","Sst/Pvalb_IN",18,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","85_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","88_Sst","88_Sst",22,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","80_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","84_Sst","Sst_IN",15,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","76_Sst","76_Sst",23,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","90_Sst","Sst/Pvalb_IN",18,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","110_Pvalb","110_Pvalb",24,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","361_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"mouse10x_2020","362_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"mouse10x_2020","364_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"mouse10x_2020","173_L2/3 IT ProS","Cluster_25_Subi",25,"Subiculum","SUB",NA,NA
+"mouse10x_2020","334_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"mouse10x_2020","176_IT HATA","176_IT HATA",26,"Cortical",NA,NA,NA
+"mouse10x_2020","318_SUB","Subiculum",27,"Subiculum","SUB",NA,NA
+"mouse10x_2020","319_SUB","Subiculum",27,"Subiculum","SUB",NA,NA
+"mouse10x_2020","323_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"mouse10x_2020","324_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"mouse10x_2020","355_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"mouse10x_2020","321_SUB","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"mouse10x_2020","326_ProS","326_ProS",29,"Subiculum","SUB",NA,NA
+"mouse10x_2020","327_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"mouse10x_2020","332_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","333_CA1-ProS","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","328_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"mouse10x_2020","340_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","337_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","342_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","344_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","330_CA1-ProS","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","329_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","338_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","272_NP SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"mouse10x_2020","271_NP SUB","Subiculum",31,"Subiculum","SUB",NA,NA
+"mouse10x_2020","295_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"mouse10x_2020","360_CA2-IG-FC","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA2",NA,NA
+"mouse10x_2020","359_CA2-IG-FC","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA2",NA,NA
+"mouse10x_2020","350_Mossy","Cluster_25_Subi",25,"Pyramidal",NA,NA,NA
+"mouse10x_2020","349_Mossy","Cluster_25_Subi",25,"Pyramidal",NA,NA,NA
+"mouse10x_2020","356_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"mouse10x_2020","354_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"mouse10x_2020","358_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"mouse10x_2020","351_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"mouse10x_2020","352_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"mouse10x_2020","357_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"mouse10x_2020","343_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","353_CA3-ve","CA3_ventral",32,"Pyramidal","CA3",NA,"ventral"
+"mouse10x_2020","335_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"mouse10x_2020","336_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"mouse10x_2020","161_L2/3 IT ENTl","Cluster_25_Subi",25,"Cortical",NA,NA,NA
+"mouse10x_2020","345_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","339_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","346_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"mouse10x_2020","348_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"mouse10x_2020","341_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"mouse10x_2020","347_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"mouse10x_2020","1_CR","Cluster_33_Caja",33,"Cajal_Retzius",NA,NA,NA
+"mouse10x_2020","365_Oligo","Cluster_33_Caja",33,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","366_Oligo","Cluster_33_Caja",33,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","376_Astro","Cluster_33_Caja",33,"Astrocyte",NA,NA,NA
+"mouse10x_2020","378_Astro","378_Astro",34,"Astrocyte",NA,NA,NA
+"mouse10x_2020","377_Astro","377_Astro",35,"Astrocyte",NA,NA,NA
+"mouse10x_2020","368_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","369_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","367_Oligo","367_Oligo",37,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","370_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","375_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","374_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","373_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","372_Oligo","Oligodendrocyte",36,"Oligodendrocyte",NA,NA,NA
+"mouse10x_2020","380_SMC-Peri","Cluster_33_Caja",33,"Vascular",NA,NA,NA
+"mouse10x_2020","382_SMC-Peri","Cluster_33_Caja",33,"Vascular",NA,NA,NA
+"mouse10x_2020","379_Endo","Cluster_33_Caja",33,"Vascular",NA,NA,NA
+"mouse10x_2020","383_VLMC","Cluster_33_Caja",33,"Vascular",NA,NA,NA
+"mouse10x_2020","384_VLMC","Cluster_33_Caja",33,"Vascular",NA,NA,NA
+"mouse10x_2020","386_Micro-PVM","386_Micro-PVM",38,"Microglia",NA,NA,NA
+"mouse10x_2020","388_Micro-PVM","Microglia",39,"Microglia",NA,NA,NA
+"mouse10x_2020","387_Micro-PVM","Microglia",39,"Microglia",NA,NA,NA
+"mouse10x_2020","12_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","82_Sst","82_Sst",40,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","48_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","296_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"mouse10x_2020","129_L2/3 IT POST-PRE","Cortical_L2/3",41,"Cortical",NA,NA,NA
+"mouse10x_2020","64_Sst Chodl","64_Sst Chodl",42,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","131_L2/3 IT POST-PRE","Cortical_L2/3",41,"Cortical",NA,NA,NA
+"mouse10x_2020","297_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"mouse10x_2020","36_Sncg","Sncg_IN",4,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","18_Lamp5","Lamp5_IN",1,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse10x_2020","317_L6b CTX","317_L6b CTX",43,"Cortical",NA,NA,NA
+"mouse10x_2020","45_Vip","Lamp5/Vip_IN",5,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","47_Vip","Vip_IN",44,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","46_Vip","Vip_IN",44,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","57_Vip Igfbp6","Vip_IN",13,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","65_Sst Chodl","Sst_IN",17,"MGE_Interneuron",NA,"Sst",NA
+"mouse10x_2020","24_Sncg","24_Sncg",45,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse10x_2020","40_Vip","40_Vip",46,"CGE_Interneuron",NA,"Vip",NA
+"mouse10x_2020","108_Pvalb","108_Pvalb",47,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","109_Pvalb","109_Pvalb",48,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","111_Pvalb","111_Pvalb",49,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","120_Pvalb","Sst/Pvalb_IN",18,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse10x_2020","75_Sst","75_Sst",50,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","64_Sst Chodl","Sst_IN",51,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","65_Sst Chodl","Sst_IN",51,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","63_Sst Chodl","Sst_IN",51,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","362_DG","DG",52,"Pyramidal","DG",NA,NA
+"mouse_smartseq_2019","363_DG","DG",52,"Pyramidal","DG",NA,NA
+"mouse_smartseq_2019","340_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","338_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","364_DG","DG",52,"Pyramidal","DG",NA,NA
+"mouse_smartseq_2019","333_CA1-ProS","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","344_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","318_SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","361_DG","DG",52,"Pyramidal","DG",NA,NA
+"mouse_smartseq_2019","356_CA3-do","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"dorsal"
+"mouse_smartseq_2019","353_CA3-ve","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"ventral"
+"mouse_smartseq_2019","336_CA1-ve","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,"ventral"
+"mouse_smartseq_2019","337_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","321_SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","332_CA1-ProS","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","339_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","347_CA1-do","CA1/CA2_dorsal",55,"Pyramidal","CA1",NA,"dorsal"
+"mouse_smartseq_2019","348_CA1-do","CA1/CA2_dorsal",55,"Pyramidal","CA1",NA,"dorsal"
+"mouse_smartseq_2019","351_CA3-ve","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"ventral"
+"mouse_smartseq_2019","360_CA2-IG-FC","CA1/CA2_dorsal",55,"Pyramidal","CA2",NA,NA
+"mouse_smartseq_2019","346_CA1-do","CA1/CA2_dorsal",55,"Pyramidal","CA1",NA,"dorsal"
+"mouse_smartseq_2019","352_CA3-ve","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"ventral"
+"mouse_smartseq_2019","355_CA3-ve","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"ventral"
+"mouse_smartseq_2019","341_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","345_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","357_CA3-do","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"dorsal"
+"mouse_smartseq_2019","354_CA3-ve","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"ventral"
+"mouse_smartseq_2019","359_CA2-IG-FC","CA1/CA2_dorsal",55,"Pyramidal","CA2",NA,NA
+"mouse_smartseq_2019","342_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","335_CA1-ve","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,"ventral"
+"mouse_smartseq_2019","334_CA1-ve","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,"ventral"
+"mouse_smartseq_2019","324_ProS","Cluster_53_Pyra",53,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","343_CA1","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","297_CT SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","296_CT SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","323_ProS","Cluster_53_Pyra",53,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","320_SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","319_SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","294_CT SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","273_NP SUB","Cluster_56_Subi",56,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","272_NP SUB","Cluster_56_Subi",56,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","274_NP SUB","Cluster_56_Subi",56,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","173_L2/3 IT ProS","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","326_ProS","Cluster_53_Pyra",53,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","283_L6 CT CTX","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","330_CA1-ProS","Cluster_53_Pyra",53,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","295_CT SUB","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","328_ProS","Cluster_53_Pyra",53,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","271_NP SUB","Cluster_56_Subi",56,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","329_CA1-ProS","Cluster_54_Subi",54,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","327_ProS","Cluster_53_Pyra",53,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","279_L6 CT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","331_CA1-ProS","Cluster_54_Subi",54,"Pyramidal","CA1",NA,NA
+"mouse_smartseq_2019","263_L5 PPP","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","310_L6b RHP","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","276_NP PPP","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","322_ProS","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","131_L2/3 IT POST-PRE","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","261_L4 RSP-ACA","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","293_L6 CT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","133_L2 IT RSPv-POST-PRE","Cortical_L2",57,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","303_L6b CTX","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","285_L6 CT CTX","285_L6 CT CTX",58,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","317_L6b CTX","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","290_L6 CT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","275_NP PPP","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","180_L4 IT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","134_L2 IT RSP-ACA","Cortical_L2",57,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","78_Sst HPF","Sst_IN",59,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse_smartseq_2019","110_Pvalb","110_Pvalb",60,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","76_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","25_Sncg","Sncg_IN",62,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","111_Pvalb","Pvalb/Vip_IN",63,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","4_Meis2 HPF","Cluster_64_Hipp",64,"Hippocampal_Interneuron",NA,NA,"HPF"
+"mouse_smartseq_2019","32_Sncg","Sncg_IN",65,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","80_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","108_Pvalb","108_Pvalb",66,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","34_Sncg","Sncg/Vip_IN",67,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","27_Ntng1 HPF","Cluster_64_Hipp",64,"Other",NA,NA,"HPF"
+"mouse_smartseq_2019","28_Ntng1 HPF","Cluster_64_Hipp",64,"Other",NA,NA,"HPF"
+"mouse_smartseq_2019","37_Sncg","Sncg_IN",65,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","49_Vip","Vip_IN",68,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","123_Pvalb Vipr2","Pvalb/Vip_IN",63,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","26_Ntng1 HPF","26_Ntng1 HPF",69,"Other",NA,NA,"HPF"
+"mouse_smartseq_2019","118_Pvalb","Pvalb/Vip_IN",63,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","7_Lamp5 Lhx6","7_Lamp5 Lhx6",70,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse_smartseq_2019","112_Pvalb","Pvalb/Vip_IN",63,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","51_Vip","Vip_IN",68,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","59_Vip Igfbp6","59_Vip Igfbp6",71,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","88_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","39_Sncg","Sncg_IN",65,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","101_Sst","Sst_IN",72,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","79_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","6_Lamp5 Lhx6","6_Lamp5 Lhx6",73,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse_smartseq_2019","120_Pvalb","Pvalb/Vip_IN",63,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","67_Sst","Sst_IN",72,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","98_Sst","Sst_IN",74,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","60_Vip Igfbp6","60_Vip Igfbp6",75,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","72_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","33_Sncg","Sncg_IN",62,"Hippocampal_Interneuron",NA,"Sncg",NA
+"mouse_smartseq_2019","46_Vip","Sncg/Vip_IN",67,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","291_L6 CT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","50_Vip","Sncg/Vip_IN",67,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","109_Pvalb","109_Pvalb",76,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","84_Sst","Sst_IN",59,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","87_Sst","Sst_IN",72,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","85_Sst","Sst_IN",72,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","54_Vip HPF","Vip_IN",68,"CGE_Interneuron",NA,"Vip","HPF"
+"mouse_smartseq_2019","226_L6 IT CTX","Cluster_54_Subi",54,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","56_Vip HPF","56_Vip HPF",77,"CGE_Interneuron",NA,"Vip","HPF"
+"mouse_smartseq_2019","82_Sst","Sst_IN",61,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","107_Sst HPF","Sst_IN",59,"MGE_Interneuron",NA,"Sst","HPF"
+"mouse_smartseq_2019","68_Sst","Sst_IN",72,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","119_Pvalb","119_Pvalb",78,"MGE_Interneuron",NA,"Pvalb",NA
+"mouse_smartseq_2019","12_Lamp5","12_Lamp5",79,"CGE_Interneuron",NA,"Lamp5",NA
+"mouse_smartseq_2019","44_Vip","44_Vip",80,"CGE_Interneuron",NA,"Vip",NA
+"mouse_smartseq_2019","95_Sst","Sst_IN",74,"MGE_Interneuron",NA,"Sst",NA
+"mouse_smartseq_2019","304_L6b CTX","Cluster_56_Subi",56,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","129_L2/3 IT POST-PRE","129_L2/3 IT POST-PRE",81,"Cortical",NA,NA,NA
+"mouse_smartseq_2019","172_L2/3 IT ProS","Cluster_54_Subi",54,"Subiculum","SUB",NA,NA
+"mouse_smartseq_2019","350_Mossy","350_Mossy",82,"Pyramidal",NA,NA,NA
+"mouse_smartseq_2019","358_CA3-do","Cluster_53_Pyra",53,"Pyramidal","CA3",NA,"dorsal"
+"yao_hippo_10x","363_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"yao_hippo_10x","361_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"yao_hippo_10x","362_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"yao_hippo_10x","364_DG","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","DG",NA,NA
+"yao_hippo_10x","294_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","272_NP SUB","Subiculum",31,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","326_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","325_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","334_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"yao_hippo_10x","332_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","323_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","331_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","319_SUB","Subiculum",83,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","318_SUB","Subiculum",83,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","321_SUB","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","320_SUB","Subiculum",83,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","329_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","324_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","327_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","355_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"yao_hippo_10x","345_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","328_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","333_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","330_CA1-ProS","Cluster_28_Subi",28,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","322_ProS","Cluster_28_Subi",28,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","340_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","342_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","337_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","344_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","338_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","273_NP SUB","Subiculum",31,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","271_NP SUB","Subiculum",31,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","274_NP SUB","Subiculum",31,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","296_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","295_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA
+"yao_hippo_10x","360_CA2-IG-FC","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA2",NA,NA
+"yao_hippo_10x","359_CA2-IG-FC","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA2",NA,NA
+"yao_hippo_10x","350_Mossy","Cluster_25_Subi",25,"Pyramidal",NA,NA,NA
+"yao_hippo_10x","349_Mossy","Cluster_25_Subi",25,"Pyramidal",NA,NA,NA
+"yao_hippo_10x","356_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"yao_hippo_10x","354_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"yao_hippo_10x","358_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"yao_hippo_10x","351_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"yao_hippo_10x","352_CA3-ve","Cluster_25_Subi",25,"Pyramidal","CA3",NA,"ventral"
+"yao_hippo_10x","357_CA3-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA3",NA,"dorsal"
+"yao_hippo_10x","343_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","353_CA3-ve","CA3_ventral",32,"Pyramidal","CA3",NA,"ventral"
+"yao_hippo_10x","335_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"yao_hippo_10x","336_CA1-ve","Cluster_25_Subi",25,"Pyramidal","CA1",NA,"ventral"
+"yao_hippo_10x","339_CA1","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","346_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"yao_hippo_10x","348_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"yao_hippo_10x","341_CA1","Cluster_25_Subi",25,"Pyramidal","CA1",NA,NA
+"yao_hippo_10x","347_CA1-do","DG/CA1/CA2/CA3_dorsal",14,"Pyramidal","CA1",NA,"dorsal"
+"yao_hippo_10x","297_CT SUB","Subiculum",30,"Subiculum","SUB",NA,NA

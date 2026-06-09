@@ -1,0 +1,8 @@
+"effect","significant_genes","percentage"
+"Age",8163,65.22
+"Parity",8,0.06
+"Region",6086,48.63
+"Age:Parity",7,0.06
+"Age:Region",1798,14.37
+"Parity:Region",0,0
+"Age:Parity:Region",0,0

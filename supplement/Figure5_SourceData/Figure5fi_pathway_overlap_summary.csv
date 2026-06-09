@@ -1,0 +1,8 @@
+"Region","Count","Percentage"
+"CA3 Dorsal only",25,1.6
+"Astrocytes only",19,1.2
+"Sst+ HPF only",13,0.8
+"CA3 Dorsal & Astrocytes",22,1.4
+"CA3 Dorsal & Sst+ HPF",11,0.7
+"Astrocytes & Sst+ HPF",110,6.9
+"All three cell types",419,26.2

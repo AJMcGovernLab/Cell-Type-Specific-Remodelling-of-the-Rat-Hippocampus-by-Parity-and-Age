@@ -1,0 +1,350 @@
+"dataset","original_name","unified_name","cluster_id","hierarchical_level_1","hierarchical_level_2","hierarchical_level_3","hierarchical_level_4","major_type","subtype","region"
+"mouse10x_2020","10_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","10_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","11_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","11_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","7_Lamp5 Lhx6","Cluster_1",1,"Neuron","Inhibitory","Lamp5","7_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse10x_2020","5_Lamp5 Lhx6","Cluster_1",1,"Neuron","Inhibitory","Lamp5","5_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse10x_2020","6_Lamp5 Lhx6","Cluster_1",1,"Neuron","Inhibitory","Lamp5","6_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse10x_2020","8_Lamp5 Lhx6","Cluster_1",1,"Neuron","Inhibitory","Lamp5","8_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse10x_2020","9_Lamp5 Lhx6","Cluster_1",1,"Neuron","Inhibitory","Lamp5","9_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse10x_2020","20_Pax6","Cluster_1",1,"Other","Other","Other","20_Pax6","Other",NA,NA
+"mouse10x_2020","28_Ntng1 HPF","Cluster_1",1,"Other","Other","Other","28_Ntng1 HPF","Other",NA,"HPF"
+"mouse10x_2020","17_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","17_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","14_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","14_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","15_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","15_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","16_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","16_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","62_Vip Igfbp6","Cluster_1",1,"Neuron","Inhibitory","Vip","62_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","37_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","37_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","39_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","39_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","29_Ntng1 HPF","Cluster_1",1,"Other","Other","Other","29_Ntng1 HPF","Other",NA,"HPF"
+"mouse10x_2020","56_Vip HPF","Cluster_1",1,"Neuron","Inhibitory","Vip","56_Vip HPF","Inhibitory","Vip","HPF"
+"mouse10x_2020","38_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","38_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","32_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","32_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","33_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","33_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","31_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","31_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","35_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","35_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","22_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","22_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","34_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","34_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","52_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","52_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","21_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","21_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","25_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","25_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","26_Ntng1 HPF","Cluster_1",1,"Other","Other","Other","26_Ntng1 HPF","Other",NA,"HPF"
+"mouse10x_2020","27_Ntng1 HPF","Cluster_1",1,"Other","Other","Other","27_Ntng1 HPF","Other",NA,"HPF"
+"mouse10x_2020","30_Ntng1 HPF","Cluster_1",1,"Other","Other","Other","30_Ntng1 HPF","Other",NA,"HPF"
+"mouse10x_2020","4_Meis2 HPF","Cluster_1",1,"Neuron","Inhibitory","Inhibitory","4_Meis2 HPF","Inhibitory",NA,"HPF"
+"mouse10x_2020","193_L4/5 IT CTX","Cluster_2",2,"Neuron","Cortical","Cortical","193_L4/5 IT CTX","Cortical",NA,NA
+"mouse10x_2020","189_L4/5 IT CTX","Cluster_3",3,"Neuron","Cortical","Cortical","189_L4/5 IT CTX","Cortical",NA,NA
+"mouse10x_2020","192_L4/5 IT CTX","Cluster_4",4,"Neuron","Cortical","Cortical","192_L4/5 IT CTX","Cortical",NA,NA
+"mouse10x_2020","60_Vip Igfbp6","Vip_interneuron",5,"Neuron","Inhibitory","Vip","60_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","363_DG","Cluster_3",3,"Neuron","Excitatory","DG","363_DG","Excitatory","DG",NA
+"mouse10x_2020","99_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","99_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","164_L2/3 IT CTX","Cluster_6",6,"Neuron","Cortical","Cortical","164_L2/3 IT CTX","Cortical",NA,NA
+"mouse10x_2020","59_Vip Igfbp6","Vip_interneuron",5,"Neuron","Inhibitory","Vip","59_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","58_Vip Igfbp6","Vip_interneuron",5,"Neuron","Inhibitory","Vip","58_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","61_Vip Igfbp6","Cluster_1",1,"Neuron","Inhibitory","Vip","61_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","41_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","41_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","51_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","51_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","50_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","50_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","53_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","53_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","54_Vip HPF","Cluster_1",1,"Neuron","Inhibitory","Vip","54_Vip HPF","Inhibitory","Vip","HPF"
+"mouse10x_2020","44_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","44_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","55_Vip HPF","Cluster_1",1,"Neuron","Inhibitory","Vip","55_Vip HPF","Inhibitory","Vip","HPF"
+"mouse10x_2020","49_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","49_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","98_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","98_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","63_Sst Chodl","Cluster_1",1,"Neuron","Inhibitory","Sst","63_Sst Chodl","Inhibitory","Sst",NA
+"mouse10x_2020","102_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","102_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","103_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","103_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","114_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","114_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","122_Pvalb Vipr2","Cluster_1",1,"Neuron","Inhibitory","Vip","122_Pvalb Vipr2","Inhibitory","Vip",NA
+"mouse10x_2020","118_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","118_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","78_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","78_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","121_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","121_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","91_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","91_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","123_Pvalb Vipr2","Cluster_1",1,"Neuron","Inhibitory","Vip","123_Pvalb Vipr2","Inhibitory","Vip",NA
+"mouse10x_2020","119_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","119_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","87_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","87_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","105_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","105_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","104_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","104_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","151_L2 IT ENTl","Cluster_7",7,"Other","Other","Other","151_L2 IT ENTl","Other",NA,NA
+"mouse10x_2020","79_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","79_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","77_Sst HPF","Cluster_1",1,"Neuron","Inhibitory","Sst","77_Sst HPF","Inhibitory","Sst","HPF"
+"mouse10x_2020","94_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","94_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","85_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","85_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","88_Sst","Sst_interneuron",8,"Neuron","Inhibitory","Sst","88_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","80_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","80_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","84_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","84_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","76_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","76_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","90_Sst","Cluster_1",1,"Neuron","Inhibitory","Sst","90_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","110_Pvalb","Pvalb_interneuron",9,"Neuron","Inhibitory","Pvalb","110_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","361_DG","Cluster_3",3,"Neuron","Excitatory","DG","361_DG","Excitatory","DG",NA
+"mouse10x_2020","362_DG","Cluster_3",3,"Neuron","Excitatory","DG","362_DG","Excitatory","DG",NA
+"mouse10x_2020","364_DG","Cluster_3",3,"Neuron","Excitatory","DG","364_DG","Excitatory","DG",NA
+"mouse10x_2020","173_L2/3 IT ProS","Cluster_3",3,"Neuron","Subiculum","ProS","173_L2/3 IT ProS","Subiculum","ProS",NA
+"mouse10x_2020","334_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","334_CA1-ve","Excitatory","CA1","ventral"
+"mouse10x_2020","176_IT HATA","Cluster_10",10,"Other","Other","Other","176_IT HATA","Other",NA,NA
+"mouse10x_2020","318_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","318_SUB","Subiculum","SUB",NA
+"mouse10x_2020","319_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","319_SUB","Subiculum","SUB",NA
+"mouse10x_2020","323_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","323_ProS","Subiculum","ProS",NA
+"mouse10x_2020","324_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","324_ProS","Subiculum","ProS",NA
+"mouse10x_2020","355_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","355_CA3-ve","Excitatory","CA3","ventral"
+"mouse10x_2020","321_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","321_SUB","Subiculum","SUB",NA
+"mouse10x_2020","326_ProS","Subiculum",11,"Neuron","Subiculum","ProS","326_ProS","Subiculum","ProS",NA
+"mouse10x_2020","327_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","327_ProS","Subiculum","ProS",NA
+"mouse10x_2020","332_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","332_CA1-ProS","Excitatory","CA1",NA
+"mouse10x_2020","333_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","333_CA1-ProS","Excitatory","CA1",NA
+"mouse10x_2020","328_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","328_ProS","Subiculum","ProS",NA
+"mouse10x_2020","340_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","340_CA1","Excitatory","CA1",NA
+"mouse10x_2020","337_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","337_CA1","Excitatory","CA1",NA
+"mouse10x_2020","342_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","342_CA1","Excitatory","CA1",NA
+"mouse10x_2020","344_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","344_CA1","Excitatory","CA1",NA
+"mouse10x_2020","330_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","330_CA1-ProS","Excitatory","CA1",NA
+"mouse10x_2020","329_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","329_CA1-ProS","Excitatory","CA1",NA
+"mouse10x_2020","338_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","338_CA1","Excitatory","CA1",NA
+"mouse10x_2020","272_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","272_NP SUB","Subiculum","SUB",NA
+"mouse10x_2020","271_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","271_NP SUB","Subiculum","SUB",NA
+"mouse10x_2020","295_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","295_CT SUB","Subiculum","SUB",NA
+"mouse10x_2020","360_CA2-IG-FC","Cluster_3",3,"Neuron","Excitatory","CA2","360_CA2-IG-FC","Excitatory","CA2",NA
+"mouse10x_2020","359_CA2-IG-FC","Cluster_3",3,"Neuron","Excitatory","CA2","359_CA2-IG-FC","Excitatory","CA2",NA
+"mouse10x_2020","350_Mossy","Cluster_3",3,"Neuron","Excitatory","Excitatory","350_Mossy","Excitatory",NA,NA
+"mouse10x_2020","349_Mossy","Cluster_3",3,"Neuron","Excitatory","Excitatory","349_Mossy","Excitatory",NA,NA
+"mouse10x_2020","356_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","356_CA3-do","Excitatory","CA3","dorsal"
+"mouse10x_2020","354_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","354_CA3-ve","Excitatory","CA3","ventral"
+"mouse10x_2020","358_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","358_CA3-do","Excitatory","CA3","dorsal"
+"mouse10x_2020","351_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","351_CA3-ve","Excitatory","CA3","ventral"
+"mouse10x_2020","352_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","352_CA3-ve","Excitatory","CA3","ventral"
+"mouse10x_2020","357_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","357_CA3-do","Excitatory","CA3","dorsal"
+"mouse10x_2020","343_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","343_CA1","Excitatory","CA1",NA
+"mouse10x_2020","353_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","353_CA3-ve","Excitatory","CA3","ventral"
+"mouse10x_2020","335_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","335_CA1-ve","Excitatory","CA1","ventral"
+"mouse10x_2020","336_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","336_CA1-ve","Excitatory","CA1","ventral"
+"mouse10x_2020","161_L2/3 IT ENTl","Cluster_3",3,"Other","Other","Other","161_L2/3 IT ENTl","Other",NA,NA
+"mouse10x_2020","345_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","345_CA1","Excitatory","CA1",NA
+"mouse10x_2020","339_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","339_CA1","Excitatory","CA1",NA
+"mouse10x_2020","346_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","346_CA1-do","Excitatory","CA1","dorsal"
+"mouse10x_2020","348_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","348_CA1-do","Excitatory","CA1","dorsal"
+"mouse10x_2020","341_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","341_CA1","Excitatory","CA1",NA
+"mouse10x_2020","347_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","347_CA1-do","Excitatory","CA1","dorsal"
+"mouse10x_2020","1_CR","Cluster_12",12,"Other","Other","Other","1_CR","Other",NA,NA
+"mouse10x_2020","365_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","365_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","366_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","366_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","376_Astro","Cluster_12",12,"Glia","Astrocyte","Astrocyte","376_Astro","Astrocyte",NA,NA
+"mouse10x_2020","378_Astro","Astrocyte",13,"Glia","Astrocyte","Astrocyte","378_Astro","Astrocyte",NA,NA
+"mouse10x_2020","377_Astro","Astrocyte",13,"Glia","Astrocyte","Astrocyte","377_Astro","Astrocyte",NA,NA
+"mouse10x_2020","368_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","368_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","369_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","369_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","367_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","367_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","370_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","370_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","375_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","375_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","374_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","374_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","373_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","373_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","372_Oligo","Cluster_12",12,"Glia","Oligodendrocyte","Oligodendrocyte","372_Oligo","Oligodendrocyte",NA,NA
+"mouse10x_2020","380_SMC-Peri","Cluster_12",12,"Vascular","Vascular","Vascular","380_SMC-Peri","Vascular",NA,NA
+"mouse10x_2020","382_SMC-Peri","Cluster_12",12,"Vascular","Vascular","Vascular","382_SMC-Peri","Vascular",NA,NA
+"mouse10x_2020","379_Endo","Cluster_12",12,"Vascular","Vascular","Vascular","379_Endo","Vascular",NA,NA
+"mouse10x_2020","383_VLMC","Cluster_12",12,"Vascular","Vascular","Vascular","383_VLMC","Vascular",NA,NA
+"mouse10x_2020","384_VLMC","Cluster_12",12,"Vascular","Vascular","Vascular","384_VLMC","Vascular",NA,NA
+"mouse10x_2020","386_Micro-PVM","Microglia",14,"Glia","Microglia","Microglia","386_Micro-PVM","Microglia",NA,NA
+"mouse10x_2020","388_Micro-PVM","Microglia",14,"Glia","Microglia","Microglia","388_Micro-PVM","Microglia",NA,NA
+"mouse10x_2020","387_Micro-PVM","Microglia",14,"Glia","Microglia","Microglia","387_Micro-PVM","Microglia",NA,NA
+"mouse10x_2020","12_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","12_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","82_Sst","Sst_interneuron",8,"Neuron","Inhibitory","Sst","82_Sst","Inhibitory","Sst",NA
+"mouse10x_2020","48_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","48_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","296_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","296_CT SUB","Subiculum","SUB",NA
+"mouse10x_2020","129_L2/3 IT POST-PRE","Cluster_3",3,"Other","Other","Other","129_L2/3 IT POST-PRE","Other",NA,NA
+"mouse10x_2020","64_Sst Chodl","Sst_interneuron",15,"Neuron","Inhibitory","Sst","64_Sst Chodl","Inhibitory","Sst",NA
+"mouse10x_2020","131_L2/3 IT POST-PRE","Cluster_3",3,"Other","Other","Other","131_L2/3 IT POST-PRE","Other",NA,NA
+"mouse10x_2020","297_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","297_CT SUB","Subiculum","SUB",NA
+"mouse10x_2020","36_Sncg","Cluster_1",1,"Neuron","Inhibitory","Sncg","36_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","18_Lamp5","Cluster_1",1,"Neuron","Inhibitory","Lamp5","18_Lamp5","Inhibitory","Lamp5",NA
+"mouse10x_2020","317_L6b CTX","Cluster_16",16,"Neuron","Cortical","Cortical","317_L6b CTX","Cortical",NA,NA
+"mouse10x_2020","45_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","45_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","47_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","47_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","46_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","46_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","57_Vip Igfbp6","Vip_interneuron",5,"Neuron","Inhibitory","Vip","57_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse10x_2020","65_Sst Chodl","Cluster_1",1,"Neuron","Inhibitory","Sst","65_Sst Chodl","Inhibitory","Sst",NA
+"mouse10x_2020","24_Sncg","Sncg_interneuron",17,"Neuron","Inhibitory","Sncg","24_Sncg","Inhibitory","Sncg",NA
+"mouse10x_2020","40_Vip","Cluster_1",1,"Neuron","Inhibitory","Vip","40_Vip","Inhibitory","Vip",NA
+"mouse10x_2020","108_Pvalb","Pvalb_interneuron",9,"Neuron","Inhibitory","Pvalb","108_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","109_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","109_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","111_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","111_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","120_Pvalb","Cluster_1",1,"Neuron","Inhibitory","Pvalb","120_Pvalb","Inhibitory","Pvalb",NA
+"mouse10x_2020","75_Sst","Sst_interneuron",18,"Neuron","Inhibitory","Sst","75_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","64_Sst Chodl","Sst_interneuron",19,"Neuron","Inhibitory","Sst","64_Sst Chodl","Inhibitory","Sst",NA
+"mouse_smartseq_2019","65_Sst Chodl","Sst_interneuron",19,"Neuron","Inhibitory","Sst","65_Sst Chodl","Inhibitory","Sst",NA
+"mouse_smartseq_2019","63_Sst Chodl","Sst_interneuron",19,"Neuron","Inhibitory","Sst","63_Sst Chodl","Inhibitory","Sst",NA
+"mouse_smartseq_2019","362_DG","Cluster_20",20,"Neuron","Excitatory","DG","362_DG","Excitatory","DG",NA
+"mouse_smartseq_2019","363_DG","Cluster_20",20,"Neuron","Excitatory","DG","363_DG","Excitatory","DG",NA
+"mouse_smartseq_2019","340_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","340_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","338_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","338_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","364_DG","Cluster_20",20,"Neuron","Excitatory","DG","364_DG","Excitatory","DG",NA
+"mouse_smartseq_2019","333_CA1-ProS","Cluster_20",20,"Neuron","Excitatory","CA1","333_CA1-ProS","Excitatory","CA1",NA
+"mouse_smartseq_2019","344_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","344_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","318_SUB","Cluster_20",20,"Neuron","Subiculum","SUB","318_SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","361_DG","Cluster_20",20,"Neuron","Excitatory","DG","361_DG","Excitatory","DG",NA
+"mouse_smartseq_2019","356_CA3-do","Cluster_20",20,"Neuron","Excitatory","CA3","356_CA3-do","Excitatory","CA3","dorsal"
+"mouse_smartseq_2019","353_CA3-ve","Cluster_20",20,"Neuron","Excitatory","CA3","353_CA3-ve","Excitatory","CA3","ventral"
+"mouse_smartseq_2019","336_CA1-ve","Cluster_20",20,"Neuron","Excitatory","CA1","336_CA1-ve","Excitatory","CA1","ventral"
+"mouse_smartseq_2019","337_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","337_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","321_SUB","Cluster_20",20,"Neuron","Subiculum","SUB","321_SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","332_CA1-ProS","Cluster_20",20,"Neuron","Excitatory","CA1","332_CA1-ProS","Excitatory","CA1",NA
+"mouse_smartseq_2019","339_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","339_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","347_CA1-do","Cluster_20",20,"Neuron","Excitatory","CA1","347_CA1-do","Excitatory","CA1","dorsal"
+"mouse_smartseq_2019","348_CA1-do","Cluster_20",20,"Neuron","Excitatory","CA1","348_CA1-do","Excitatory","CA1","dorsal"
+"mouse_smartseq_2019","351_CA3-ve","Cluster_20",20,"Neuron","Excitatory","CA3","351_CA3-ve","Excitatory","CA3","ventral"
+"mouse_smartseq_2019","360_CA2-IG-FC","Cluster_20",20,"Neuron","Excitatory","CA2","360_CA2-IG-FC","Excitatory","CA2",NA
+"mouse_smartseq_2019","346_CA1-do","Cluster_20",20,"Neuron","Excitatory","CA1","346_CA1-do","Excitatory","CA1","dorsal"
+"mouse_smartseq_2019","352_CA3-ve","Cluster_20",20,"Neuron","Excitatory","CA3","352_CA3-ve","Excitatory","CA3","ventral"
+"mouse_smartseq_2019","355_CA3-ve","Cluster_20",20,"Neuron","Excitatory","CA3","355_CA3-ve","Excitatory","CA3","ventral"
+"mouse_smartseq_2019","341_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","341_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","345_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","345_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","357_CA3-do","Cluster_20",20,"Neuron","Excitatory","CA3","357_CA3-do","Excitatory","CA3","dorsal"
+"mouse_smartseq_2019","354_CA3-ve","Cluster_20",20,"Neuron","Excitatory","CA3","354_CA3-ve","Excitatory","CA3","ventral"
+"mouse_smartseq_2019","359_CA2-IG-FC","Cluster_20",20,"Neuron","Excitatory","CA2","359_CA2-IG-FC","Excitatory","CA2",NA
+"mouse_smartseq_2019","342_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","342_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","335_CA1-ve","Cluster_20",20,"Neuron","Excitatory","CA1","335_CA1-ve","Excitatory","CA1","ventral"
+"mouse_smartseq_2019","334_CA1-ve","Cluster_20",20,"Neuron","Excitatory","CA1","334_CA1-ve","Excitatory","CA1","ventral"
+"mouse_smartseq_2019","324_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","324_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","343_CA1","Cluster_20",20,"Neuron","Excitatory","CA1","343_CA1","Excitatory","CA1",NA
+"mouse_smartseq_2019","297_CT SUB","Cluster_20",20,"Neuron","Subiculum","SUB","297_CT SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","296_CT SUB","Cluster_20",20,"Neuron","Subiculum","SUB","296_CT SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","323_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","323_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","320_SUB","Cluster_20",20,"Neuron","Subiculum","SUB","320_SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","319_SUB","Cluster_20",20,"Neuron","Subiculum","SUB","319_SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","294_CT SUB","Cluster_20",20,"Neuron","Subiculum","SUB","294_CT SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","273_NP SUB","Cluster_20",20,"Neuron","Subiculum","SUB","273_NP SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","272_NP SUB","Cluster_20",20,"Neuron","Subiculum","SUB","272_NP SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","274_NP SUB","Cluster_20",20,"Neuron","Subiculum","SUB","274_NP SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","173_L2/3 IT ProS","Cluster_20",20,"Neuron","Subiculum","ProS","173_L2/3 IT ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","326_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","326_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","283_L6 CT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","283_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","330_CA1-ProS","Cluster_20",20,"Neuron","Excitatory","CA1","330_CA1-ProS","Excitatory","CA1",NA
+"mouse_smartseq_2019","295_CT SUB","Cluster_20",20,"Neuron","Subiculum","SUB","295_CT SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","328_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","328_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","271_NP SUB","Cluster_20",20,"Neuron","Subiculum","SUB","271_NP SUB","Subiculum","SUB",NA
+"mouse_smartseq_2019","329_CA1-ProS","Cluster_20",20,"Neuron","Excitatory","CA1","329_CA1-ProS","Excitatory","CA1",NA
+"mouse_smartseq_2019","327_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","327_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","279_L6 CT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","279_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","331_CA1-ProS","Cluster_20",20,"Neuron","Excitatory","CA1","331_CA1-ProS","Excitatory","CA1",NA
+"mouse_smartseq_2019","263_L5 PPP","Cluster_20",20,"Other","Other","Other","263_L5 PPP","Other",NA,NA
+"mouse_smartseq_2019","310_L6b RHP","Cluster_20",20,"Other","Other","Other","310_L6b RHP","Other",NA,NA
+"mouse_smartseq_2019","276_NP PPP","Cluster_20",20,"Neuron","Cortical","Cortical","276_NP PPP","Cortical",NA,NA
+"mouse_smartseq_2019","322_ProS","Cluster_20",20,"Neuron","Subiculum","ProS","322_ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","131_L2/3 IT POST-PRE","Cluster_20",20,"Other","Other","Other","131_L2/3 IT POST-PRE","Other",NA,NA
+"mouse_smartseq_2019","261_L4 RSP-ACA","Cluster_20",20,"Other","Other","Other","261_L4 RSP-ACA","Other",NA,NA
+"mouse_smartseq_2019","293_L6 CT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","293_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","133_L2 IT RSPv-POST-PRE","Cluster_20",20,"Other","Other","Other","133_L2 IT RSPv-POST-PRE","Other",NA,NA
+"mouse_smartseq_2019","303_L6b CTX","Cluster_20",20,"Neuron","Cortical","Cortical","303_L6b CTX","Cortical",NA,NA
+"mouse_smartseq_2019","285_L6 CT CTX","Cluster_21",21,"Neuron","Cortical","Cortical","285_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","317_L6b CTX","Cluster_20",20,"Neuron","Cortical","Cortical","317_L6b CTX","Cortical",NA,NA
+"mouse_smartseq_2019","290_L6 CT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","290_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","275_NP PPP","Cluster_20",20,"Neuron","Cortical","Cortical","275_NP PPP","Cortical",NA,NA
+"mouse_smartseq_2019","180_L4 IT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","180_L4 IT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","134_L2 IT RSP-ACA","Cluster_20",20,"Other","Other","Other","134_L2 IT RSP-ACA","Other",NA,NA
+"mouse_smartseq_2019","78_Sst HPF","Sst_interneuron",22,"Neuron","Inhibitory","Sst","78_Sst HPF","Inhibitory","Sst","HPF"
+"mouse_smartseq_2019","110_Pvalb","Pvalb_interneuron",23,"Neuron","Inhibitory","Pvalb","110_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","76_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","76_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","25_Sncg","Cluster_24",24,"Neuron","Inhibitory","Sncg","25_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","111_Pvalb","Cluster_24",24,"Neuron","Inhibitory","Pvalb","111_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","4_Meis2 HPF","Cluster_24",24,"Neuron","Inhibitory","Inhibitory","4_Meis2 HPF","Inhibitory",NA,"HPF"
+"mouse_smartseq_2019","32_Sncg","Cluster_24",24,"Neuron","Inhibitory","Sncg","32_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","80_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","80_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","108_Pvalb","Cluster_24",24,"Neuron","Inhibitory","Pvalb","108_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","34_Sncg","Cluster_25",25,"Neuron","Inhibitory","Sncg","34_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","27_Ntng1 HPF","Cluster_24",24,"Other","Other","Other","27_Ntng1 HPF","Other",NA,"HPF"
+"mouse_smartseq_2019","28_Ntng1 HPF","Cluster_24",24,"Other","Other","Other","28_Ntng1 HPF","Other",NA,"HPF"
+"mouse_smartseq_2019","37_Sncg","Cluster_24",24,"Neuron","Inhibitory","Sncg","37_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","49_Vip","Cluster_25",25,"Neuron","Inhibitory","Vip","49_Vip","Inhibitory","Vip",NA
+"mouse_smartseq_2019","123_Pvalb Vipr2","Cluster_24",24,"Neuron","Inhibitory","Vip","123_Pvalb Vipr2","Inhibitory","Vip",NA
+"mouse_smartseq_2019","26_Ntng1 HPF","Cluster_24",24,"Other","Other","Other","26_Ntng1 HPF","Other",NA,"HPF"
+"mouse_smartseq_2019","118_Pvalb","Cluster_24",24,"Neuron","Inhibitory","Pvalb","118_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","7_Lamp5 Lhx6","Lamp5_interneuron",26,"Neuron","Inhibitory","Lamp5","7_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse_smartseq_2019","112_Pvalb","Cluster_24",24,"Neuron","Inhibitory","Pvalb","112_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","51_Vip","Cluster_25",25,"Neuron","Inhibitory","Vip","51_Vip","Inhibitory","Vip",NA
+"mouse_smartseq_2019","59_Vip Igfbp6","Vip_interneuron",27,"Neuron","Inhibitory","Vip","59_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse_smartseq_2019","88_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","88_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","39_Sncg","Cluster_24",24,"Neuron","Inhibitory","Sncg","39_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","101_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","101_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","79_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","79_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","6_Lamp5 Lhx6","Cluster_24",24,"Neuron","Inhibitory","Lamp5","6_Lamp5 Lhx6","Inhibitory","Lamp5",NA
+"mouse_smartseq_2019","120_Pvalb","Cluster_24",24,"Neuron","Inhibitory","Pvalb","120_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","67_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","67_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","98_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","98_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","60_Vip Igfbp6","Cluster_25",25,"Neuron","Inhibitory","Vip","60_Vip Igfbp6","Inhibitory","Vip",NA
+"mouse_smartseq_2019","72_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","72_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","33_Sncg","Cluster_24",24,"Neuron","Inhibitory","Sncg","33_Sncg","Inhibitory","Sncg",NA
+"mouse_smartseq_2019","46_Vip","Cluster_25",25,"Neuron","Inhibitory","Vip","46_Vip","Inhibitory","Vip",NA
+"mouse_smartseq_2019","291_L6 CT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","291_L6 CT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","50_Vip","Cluster_25",25,"Neuron","Inhibitory","Vip","50_Vip","Inhibitory","Vip",NA
+"mouse_smartseq_2019","109_Pvalb","Pvalb_interneuron",23,"Neuron","Inhibitory","Pvalb","109_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","84_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","84_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","87_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","87_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","85_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","85_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","54_Vip HPF","Cluster_25",25,"Neuron","Inhibitory","Vip","54_Vip HPF","Inhibitory","Vip","HPF"
+"mouse_smartseq_2019","226_L6 IT CTX","Cluster_20",20,"Neuron","Cortical","Cortical","226_L6 IT CTX","Cortical",NA,NA
+"mouse_smartseq_2019","56_Vip HPF","Vip_interneuron",27,"Neuron","Inhibitory","Vip","56_Vip HPF","Inhibitory","Vip","HPF"
+"mouse_smartseq_2019","82_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","82_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","107_Sst HPF","Sst_interneuron",22,"Neuron","Inhibitory","Sst","107_Sst HPF","Inhibitory","Sst","HPF"
+"mouse_smartseq_2019","68_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","68_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","119_Pvalb","Pvalb_interneuron",23,"Neuron","Inhibitory","Pvalb","119_Pvalb","Inhibitory","Pvalb",NA
+"mouse_smartseq_2019","12_Lamp5","Lamp5_interneuron",28,"Neuron","Inhibitory","Lamp5","12_Lamp5","Inhibitory","Lamp5",NA
+"mouse_smartseq_2019","44_Vip","Vip_interneuron",29,"Neuron","Inhibitory","Vip","44_Vip","Inhibitory","Vip",NA
+"mouse_smartseq_2019","95_Sst","Sst_interneuron",22,"Neuron","Inhibitory","Sst","95_Sst","Inhibitory","Sst",NA
+"mouse_smartseq_2019","304_L6b CTX","Cluster_20",20,"Neuron","Cortical","Cortical","304_L6b CTX","Cortical",NA,NA
+"mouse_smartseq_2019","129_L2/3 IT POST-PRE","Cluster_30",30,"Other","Other","Other","129_L2/3 IT POST-PRE","Other",NA,NA
+"mouse_smartseq_2019","172_L2/3 IT ProS","Cluster_20",20,"Neuron","Subiculum","ProS","172_L2/3 IT ProS","Subiculum","ProS",NA
+"mouse_smartseq_2019","350_Mossy","Cluster_31",31,"Neuron","Excitatory","Excitatory","350_Mossy","Excitatory",NA,NA
+"mouse_smartseq_2019","358_CA3-do","Cluster_20",20,"Neuron","Excitatory","CA3","358_CA3-do","Excitatory","CA3","dorsal"
+"yao_hippo_10x","363_DG","Cluster_3",3,"Neuron","Excitatory","DG","363_DG","Excitatory","DG",NA
+"yao_hippo_10x","361_DG","Cluster_3",3,"Neuron","Excitatory","DG","361_DG","Excitatory","DG",NA
+"yao_hippo_10x","362_DG","Cluster_3",3,"Neuron","Excitatory","DG","362_DG","Excitatory","DG",NA
+"yao_hippo_10x","364_DG","Cluster_3",3,"Neuron","Excitatory","DG","364_DG","Excitatory","DG",NA
+"yao_hippo_10x","294_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","294_CT SUB","Subiculum","SUB",NA
+"yao_hippo_10x","272_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","272_NP SUB","Subiculum","SUB",NA
+"yao_hippo_10x","326_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","326_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","325_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","325_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","334_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","334_CA1-ve","Excitatory","CA1","ventral"
+"yao_hippo_10x","332_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","332_CA1-ProS","Excitatory","CA1",NA
+"yao_hippo_10x","323_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","323_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","331_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","331_CA1-ProS","Excitatory","CA1",NA
+"yao_hippo_10x","319_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","319_SUB","Subiculum","SUB",NA
+"yao_hippo_10x","318_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","318_SUB","Subiculum","SUB",NA
+"yao_hippo_10x","321_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","321_SUB","Subiculum","SUB",NA
+"yao_hippo_10x","320_SUB","Cluster_3",3,"Neuron","Subiculum","SUB","320_SUB","Subiculum","SUB",NA
+"yao_hippo_10x","329_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","329_CA1-ProS","Excitatory","CA1",NA
+"yao_hippo_10x","324_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","324_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","327_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","327_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","355_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","355_CA3-ve","Excitatory","CA3","ventral"
+"yao_hippo_10x","345_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","345_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","328_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","328_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","333_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","333_CA1-ProS","Excitatory","CA1",NA
+"yao_hippo_10x","330_CA1-ProS","Cluster_3",3,"Neuron","Excitatory","CA1","330_CA1-ProS","Excitatory","CA1",NA
+"yao_hippo_10x","322_ProS","Cluster_3",3,"Neuron","Subiculum","ProS","322_ProS","Subiculum","ProS",NA
+"yao_hippo_10x","340_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","340_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","342_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","342_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","337_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","337_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","344_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","344_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","338_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","338_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","273_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","273_NP SUB","Subiculum","SUB",NA
+"yao_hippo_10x","271_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","271_NP SUB","Subiculum","SUB",NA
+"yao_hippo_10x","274_NP SUB","Cluster_3",3,"Neuron","Subiculum","SUB","274_NP SUB","Subiculum","SUB",NA
+"yao_hippo_10x","296_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","296_CT SUB","Subiculum","SUB",NA
+"yao_hippo_10x","295_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","295_CT SUB","Subiculum","SUB",NA
+"yao_hippo_10x","360_CA2-IG-FC","Cluster_3",3,"Neuron","Excitatory","CA2","360_CA2-IG-FC","Excitatory","CA2",NA
+"yao_hippo_10x","359_CA2-IG-FC","Cluster_3",3,"Neuron","Excitatory","CA2","359_CA2-IG-FC","Excitatory","CA2",NA
+"yao_hippo_10x","350_Mossy","Cluster_3",3,"Neuron","Excitatory","Excitatory","350_Mossy","Excitatory",NA,NA
+"yao_hippo_10x","349_Mossy","Cluster_3",3,"Neuron","Excitatory","Excitatory","349_Mossy","Excitatory",NA,NA
+"yao_hippo_10x","356_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","356_CA3-do","Excitatory","CA3","dorsal"
+"yao_hippo_10x","354_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","354_CA3-ve","Excitatory","CA3","ventral"
+"yao_hippo_10x","358_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","358_CA3-do","Excitatory","CA3","dorsal"
+"yao_hippo_10x","351_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","351_CA3-ve","Excitatory","CA3","ventral"
+"yao_hippo_10x","352_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","352_CA3-ve","Excitatory","CA3","ventral"
+"yao_hippo_10x","357_CA3-do","Cluster_3",3,"Neuron","Excitatory","CA3","357_CA3-do","Excitatory","CA3","dorsal"
+"yao_hippo_10x","343_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","343_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","353_CA3-ve","Cluster_3",3,"Neuron","Excitatory","CA3","353_CA3-ve","Excitatory","CA3","ventral"
+"yao_hippo_10x","335_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","335_CA1-ve","Excitatory","CA1","ventral"
+"yao_hippo_10x","336_CA1-ve","Cluster_3",3,"Neuron","Excitatory","CA1","336_CA1-ve","Excitatory","CA1","ventral"
+"yao_hippo_10x","339_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","339_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","346_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","346_CA1-do","Excitatory","CA1","dorsal"
+"yao_hippo_10x","348_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","348_CA1-do","Excitatory","CA1","dorsal"
+"yao_hippo_10x","341_CA1","Cluster_3",3,"Neuron","Excitatory","CA1","341_CA1","Excitatory","CA1",NA
+"yao_hippo_10x","347_CA1-do","Cluster_3",3,"Neuron","Excitatory","CA1","347_CA1-do","Excitatory","CA1","dorsal"
+"yao_hippo_10x","297_CT SUB","Cluster_3",3,"Neuron","Subiculum","SUB","297_CT SUB","Subiculum","SUB",NA

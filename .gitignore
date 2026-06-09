@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.Rproj.user/
+.Rhistory
+*~
+
+# logs / scratch
+*.log
+Rplots.pdf
+
+# NOTE: checkpoints/rf_inputs/*.RData are intentionally tracked (non-reproducible
+# saved random-forest models), so .RData is deliberately NOT ignored.

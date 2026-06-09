@@ -1,0 +1,9 @@
+"statistic","value"
+"mean_within",0.745305507039482
+"sd_within",0.157353974423293
+"mean_between",0.634171147134597
+"sd_between",0.15277501742402
+"wilcoxon_W",538808664
+"wilcoxon_p_value",0
+"n_within_pairs",17947
+"n_between_pairs",42779

@@ -1,0 +1,5 @@
+"dataset","Originals","Harmonized","Dataset_Clean"
+"mouse10x_2020",169,16,"Mouse 10X 2020"
+"mouse_smartseq_2019",125,10,"Mouse Smart-seq 2019"
+"yao_hippo_10x",55,1,"Yao Hippocampus 10X"
+"ALL",349,27,"Total (sum across datasets)"
