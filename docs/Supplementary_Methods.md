@@ -3,11 +3,11 @@
 Supplementary detail for *Cell Type-Specific Remodelling of the Rat Hippocampus
 by Parity and Age* — parameters, formulas, algorithm specifics, and
 reproducibility notes that **complement rather than repeat** the main-text
-Methods. Section numbering mirrors the manuscript (§S2.X ↔ §2.X); only sections
+Methods. Section numbering mirrors the manuscript (2.X ↔ S2.X); only sections
 with additional detail beyond the main text are included.
 
 **GEO accession:** [GSE329776](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE329776)
-**Code repository:** https://github.com/AJMcGovernLab/ReproductiveExperienceAndAgeDeconvolution (Zenodo DOI: 10.5281/zenodo.XXXXXXX)
+**Code repository:** https://github.com/AJMcGovernLab/ReproductiveExperienceAndAgeDeconvolution
 
 ---
 
@@ -219,7 +219,7 @@ with a meta-score difference > 2 between enriched and non-enriched cell types.
 
 ---
 
-## Cross-reference index (for reviewers)
+## Cross-reference index
 
 | Manuscript § | Driver script directory |
 |---|---|
